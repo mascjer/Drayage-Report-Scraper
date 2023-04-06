@@ -8,8 +8,7 @@ An application for Port Services employees to use this web app and the excel she
 
 The app contains the below functionality:
   1) User uploads drayage report excel file
-  2) Web app logs into GCT Terminal website and begins looking for visibile containers
-    - Containers that show data when searched in container history
+  2) Web app logs into GCT Terminal website and begins looking for visibile containers (containers that show data when searched in container history)
   4) Web app stores dates for available_date, full_out_date, empty_in_date, Transload Recieved, OTW ERA
   5) Web app determines new Status 
     - Returned, Empty in Yard, Full in Yard, At Port, On the Water
